@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    width: 800px;
+    height: 200px;
+
+}
+#one{
+    background-color: blueviolet;
+}
+#two{
+    background-color: brown;
+}
+#three{
+    background-color: green;
+}
+#four{
+    background-color: purple;
+}
+#five{
+    background-color: palevioletred;
+}
